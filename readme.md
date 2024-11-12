@@ -20,8 +20,10 @@ git clone https://github.com/hasufytex/PingTester
 cd PingTester
 ```
 
-### 2. Install dependencies
+### 2. Prepare venv for dependencies
 ```bash
+python -m venv venv
+.\venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ### 3. Run

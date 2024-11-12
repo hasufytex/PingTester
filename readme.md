@@ -16,8 +16,8 @@ This project monitors ping times to multiple targets (such as routers, Cloudflar
 Clone the project repository to your local machine:
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/hasufytex/PingTester
+cd PingTester
 ```
 
 ### 2. Install dependencies
